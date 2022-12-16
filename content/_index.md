@@ -65,6 +65,8 @@ sections:
               * Genomic Analyses (Shotgun, UCE, aDNA)
               * Molecular Systematics
               * Wet-lab protocols
+              * Manuscript writting
+              * Project Management
 
         - title: Professor of Semiconductor Physics
           company: University X
