@@ -63,7 +63,7 @@ social:
     label: Check my publications
     display:
       header: true
-  - icon: linkedin-in # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: linkedin # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.linkedin.com/in/fernando-lopes-53881aa0/
     label: Check my publications
