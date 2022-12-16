@@ -104,8 +104,8 @@ sections:
           company_url: ''
           company_logo: pucrs
           location: Porto Alegre, Brazil
-          date_start: '2020-04-01'
-          date_end: '2021-09-30'
+          date_start: '2015-03-01'
+          date_end: '2019-08-29'
           description: |2-
               Responsibilities:
 
