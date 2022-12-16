@@ -55,7 +55,7 @@ sections:
         - title: Postdoctoral REsearcher
           company: Finnish Museum of Natural History, University of Helsinki
           company_url: ''
-          company_logo: uh
+          company_logo: org-gc
           location: Helsinki, Finalnd
           date_start: '2022-01-24'
           date_end: ''
