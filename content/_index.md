@@ -99,6 +99,21 @@ sections:
               * Population Genetics/Genomics
               * Manuscript writting
 
+        - title: PhD
+          company: Pontifical Catholic University of Rio Grande do Sul
+          company_url: ''
+          company_logo: pucrs
+          location: Porto Alegre, Brazil
+          date_start: '2020-04-01'
+          date_end: '2021-09-30'
+          description: |2-
+              Responsibilities:
+
+              * Genomic Analyses (WGS, RADseq)
+              * Phylogenomics
+              * Population Genomics
+              * Manuscript writting
+              * Mentorship
 
     design:
       columns: '2'
