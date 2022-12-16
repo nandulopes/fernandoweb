@@ -60,8 +60,8 @@ sections:
           date_start: '2022-01-24'
           date_end: ''
           description: |2-
-          
               Responsibilities:
+              
               * Genomic Analyses (WGS, RADseq)
               * Molecular Systematics
               * Population Genomics
