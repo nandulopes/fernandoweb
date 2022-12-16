@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="14cm"
-   height="4cm"
-   viewBox="0 0 140 40"
+   width="512cm"
+   height="200cm"
+   viewBox="0 0 5120 2000"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -29,9 +29,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:lockguides="true"
-     inkscape:zoom="1.1893044"
-     inkscape:cx="-216.51311"
-     inkscape:cy="290.08553"
+     inkscape:zoom="0.026280163"
+     inkscape:cx="-1845.4985"
+     inkscape:cy="-9208.4666"
      inkscape:window-width="2560"
      inkscape:window-height="1302"
      inkscape:window-x="1440"
@@ -46,8 +46,8 @@
        transform="matrix(0.26458333,0,0,0.26458333,51.061777,48.185435)">
 	
 <image
-   width="526.8244"
-   height="118.5355"
+   width="19248.17"
+   height="4330.8384"
    preserveAspectRatio="none"
    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAC0CAYAAABsb0igAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
@@ -349,5 +349,5 @@ EEIIIYQIhuq8CyGEEEIIIWSACCGEEEIIIWSACCGEEEIIIUSj+X8CDAB1QJcKOYfGvwAAAABJRU5E
 rkJggg==
 "
    id="image4248"
-   x="-192.00804"
-   y="-162.68446" /></g></g></svg>
+   x="-192.00806"
+   y="2805.3337" /></g></g></svg>
