@@ -69,7 +69,7 @@ social:
     label: Professional profile
     display:
       header: false
-  - icon: linkedin
+  - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1246-2777
     label: Track records
