@@ -63,10 +63,10 @@ social:
     label: Check my publications
     display:
       header: true
-  - icon: linkedin # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.linkedin.com/in/fernando-lopes-53881aa0/
-    label: Check my publications
+  - icon: linkedin
+    icon_pack: fab
+    link: https://twitter.com/fernandorvlopes
+    label: Professional profile
     display:
       header: true
   # Link to a PDF of your resume/CV.
