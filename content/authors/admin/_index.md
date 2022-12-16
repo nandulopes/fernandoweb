@@ -69,6 +69,12 @@ social:
     label: Professional profile
     display:
       header: false
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/fernando-lopes-53881aa0/
+    label: Professional profile
+    display:
+      header: false      
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
