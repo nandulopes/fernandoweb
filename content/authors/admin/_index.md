@@ -80,7 +80,13 @@ social:
     link: https://www.researchgate.net/profile/Fernando-Lopes-13
     label: Interaction
     display:
-      header: false       
+      header: false
+  - icon: people-group
+    icon_pack: fab
+    link: hhttps://www.tarasovlab.com/
+    label: My Research Group
+    display:
+      header: false        
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
