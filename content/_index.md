@@ -52,20 +52,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Postdoctoral Researcher
-         company: Finnish Museum of Natural History, University of Helsinki
-         company_url: ''
-         company_logo: uh
-         location: Helsinki, Finalnd
-         date_start: '2022-01-24'
-         date_end: ''
-         description: |2-
-             Responsibilities:
-             * Genomic Analyses (Shotgun, UCE, aDNA)
-             * Molecular Systematics
-             * Wet-lab protocols
-             * Manuscript writting
-             * Project Management
+        - title: Postdoctoral Researcher
+          company: Finnish Museum of Natural History, University of Helsinki
+          company_url: ''
+          company_logo: uh
+          location: Helsinki, Finalnd
+          date_start: '2022-01-24'
+          date_end: ''
+          description: |2-
+          
+              Responsibilities:
+              * Genomic Analyses (WGS, RADseq)
+              * Molecular Systematics
+              * Population Genomics
+              * Manuscript writting
+              * Mentorship
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
