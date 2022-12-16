@@ -69,13 +69,6 @@ social:
     label: Professional profile
     display:
       header: false
-  - icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1246-2777
-  label: Track records
-  display:
-    header: false
-    
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
