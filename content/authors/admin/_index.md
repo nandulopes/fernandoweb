@@ -83,7 +83,7 @@ social:
       header: false
   - icon: users # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: hhttps://www.tarasovlab.com/
+    link: https://www.tarasovlab.com/
     label: My Research Group
     display:
       header: false        
