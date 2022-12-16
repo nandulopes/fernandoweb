@@ -75,6 +75,7 @@ social:
   label: Track records
   display:
     header: false
+    
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
