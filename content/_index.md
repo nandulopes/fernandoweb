@@ -16,17 +16,29 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Field work
+          #description: 100%
+          icon: mountain
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Wet-lab
+          #description: 90%
+          icon: dna
+          icon_pack: fas
+        - name: Genomic Analyses
+          #description: 100%
+          icon: computer
+          icon_pack: fas
+        - name: Maps
+          #description: 100%
+          icon: map
+          icon_pack: fas 
+        - name: Scientific writing
+          #description: 100%
+          icon: pen
+          icon_pack: fas
+        - name: Mentorship
+          #description: 100%
+          icon: person-chalkboard
           icon_pack: fas
   - block: experience
     content:
