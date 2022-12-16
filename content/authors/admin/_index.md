@@ -101,5 +101,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on understanding the phylogenetic relationships of extant and extinct species of dung beetles (Coleoptera: Scarabaeinae) from Madagascar and Mascarenes by using UCEs and aDNA. I am part of a project that aims to reconstruct detailed evolutionary dynamics of the stunning dung beetle diversity in the Malagasy region and the associated mass extinction events likely caused by human activity. 
+
+My research interests are molecular systematics, population genomics, and phylogeography, with particular emphasis on the methods that account for hybridization. Previously, I studied how environmental conditions influence marine mammals' population structure and diversification using RADseq and WGS.
 {style="text-align: justify;"}
