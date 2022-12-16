@@ -66,7 +66,25 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fernando-lopes-53881aa0/
-    label: My carreer
+    label: Professional profile
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-1246-2777
+    label: Track records
+    display:
+      header: true
+    - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Fernando-Lopes-13
+    label: Scientific interaction
+    display:
+      header: true
+    - icon: people-group
+    icon_pack: fab
+    link: https://www.tarasovlab.com/
+    label: My research group
     display:
       header: true
   # Link to a PDF of your resume/CV.
