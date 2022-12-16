@@ -74,7 +74,13 @@ social:
     link: https://orcid.org/0000-0002-1246-2777
     label: Track records
     display:
-      header: false      
+      header: false
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Fernando-Lopes-13
+    label: Interaction
+    display:
+      header: false       
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
