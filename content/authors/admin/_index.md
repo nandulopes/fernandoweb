@@ -81,7 +81,7 @@ social:
     label: Interaction
     display:
       header: false
-  - icon: users
+  - icon: user
     icon_pack: fab
     link: hhttps://www.tarasovlab.com/
     label: My Research Group
