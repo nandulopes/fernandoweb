@@ -79,10 +79,26 @@ sections:
               Responsibilities:
 
               * Genomic Analyses (WGS, RADseq)
-              * Molecular Systematics
+              * Phylogenomics
               * Population Genomics
               * Manuscript writting
               * Mentorship
+
+        - title: Technical Support
+          company: University of Vale di Rio dos Sinos
+          company_url: ''
+          company_logo: uni
+          location: São Leopoldo, Brazil
+          date_start: '2019-10-01'
+          date_end: '2020-03-31'
+          description: |2-
+              Responsibilities:
+
+              * Phylogenetics
+              * DNA Barcoding analyses
+              * Population Genetics/Genomics
+              * Manuscript writting
+
 
     design:
       columns: '2'
