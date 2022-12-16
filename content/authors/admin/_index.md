@@ -81,7 +81,7 @@ social:
     label: Interaction
     display:
       header: false
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: users # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: hhttps://www.tarasovlab.com/
     label: My Research Group
