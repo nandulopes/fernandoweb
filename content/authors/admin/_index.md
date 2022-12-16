@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Finnish Museum of Natural History
+  - name: Finnish Museum of Natural History (LUOMUS) - University of Helsinki
     url: https://luomus.fi/en
 
 # Short bio (displayed in user profile at end of posts)
