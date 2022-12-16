@@ -71,8 +71,8 @@ social:
       header: false
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/fernando-lopes-53881aa0/
-    label: Professional profile
+    link: https://orcid.org/0000-0002-1246-2777
+    label: Track records
     display:
       header: false      
   # Link to a PDF of your resume/CV.
