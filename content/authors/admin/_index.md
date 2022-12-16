@@ -57,7 +57,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Hp_pBHAAAAAJ&hl=en
     label: Check my publications
@@ -81,7 +81,7 @@ social:
     label: Interaction
     display:
       header: false
-  - icon: graduation-cap
+  - icon: google
     icon_pack: fab
     link: hhttps://www.tarasovlab.com/
     label: My Research Group
