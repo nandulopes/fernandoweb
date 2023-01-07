@@ -213,7 +213,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="albums" >}}
     design:
       columns: '1'
   - block: contact
