@@ -233,23 +233,13 @@ sections:
         country: Finland
         country_code: FI
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '60.17131'
+        longitude: '24.93131'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/fernandorvlopes'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'    
 ---
