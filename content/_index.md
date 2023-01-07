@@ -129,12 +129,7 @@ sections:
           date_start: '2006-03-01'
           date_end: '2012-12-31'
           description: |2-
-              Responsibilities:
 
-              * Phylogenetics
-              * DNA Barcoding analyses
-              * Population Genetics/Genomics
-              * Manuscript writting
  
     design:
       columns: '2'
