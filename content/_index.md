@@ -156,7 +156,7 @@ sections:
           url: ''
         - certificate_url:
           date_end: '2023-01-01'
-          date_start: '2016-01-01'
+          date_start: '2016-09-01'
           description: |2-
               2020: Society for Marine Mammalogy - Small Grants in Aid of Research <br>
               2017: Society for Conservation Biology - Conservation Research Small Grants Program <br>
@@ -167,14 +167,14 @@ sections:
           url:
         - certificate_url:
           date_end: '2023-01-01'
-          date_start: '2012-01-01'
+          date_start: '2012-09-01'
           description: |2-
-              2018: International Conference: Best Oral Presentation - Robin Best Award, 12º SOLAMAC, Lima - Peru
-              2012: Approved with distinction - undergraduate dissertation, UNISINOS, São Leopoldo - Brazil
+              2018: International Conference: Best Oral Presentation - Robin Best Award, 12º SOLAMAC, Lima - Peru <br>
+              2012: Approved with distinction - undergraduate dissertation, UNISINOS, São Leopoldo - Brazil <br>
               2012: Honorable Mention II Undergraduate Research and Post-graduate Conference & XIX Fair of Undergraduate Research, UNISINOS, São Leopoldo - Brazil
           organization: 
           organization_url:
-          title: Grants
+          title: Awards
           url:          
     design:
       columns: '2'
