@@ -208,15 +208,15 @@ sections:
           #description: 100%
           icon: person-chalkboard
           icon_pack: fas
-   - block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="demo" resize_options="450x250" >}}
     design:
       columns: '1'
-   - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact me!
