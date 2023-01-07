@@ -155,8 +155,8 @@ sections:
           title: Neural Networks and Deep Learning
           url: ''
         - certificate_url:
-          date_end: '2016-09-01'
-          date_start: '2023-01-01'
+          date_end: '2023-01-01'
+          date_start: '2016-01-01'
           description: |2-
               2020: Society for Marine Mammalogy - Small Grants in Aid of Research <br>
               2017: Society for Conservation Biology - Conservation Research Small Grants Program <br>
@@ -165,6 +165,17 @@ sections:
           organization_url:
           title: Grants
           url:
+        - certificate_url:
+          date_end: '2023-01-01'
+          date_start: '2012-01-01'
+          description: |2-
+              2018: International Conference: Best Oral Presentation - Robin Best Award, 12º SOLAMAC, Lima - Peru
+              2012: Approved with distinction - undergraduate dissertation, UNISINOS, São Leopoldo - Brazil
+              2012: Honorable Mention II Undergraduate Research and Post-graduate Conference & XIX Fair of Undergraduate Research, UNISINOS, São Leopoldo - Brazil
+          organization: 
+          organization_url:
+          title: Grants
+          url:          
     design:
       columns: '2'
   - block: collection
