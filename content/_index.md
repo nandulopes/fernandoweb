@@ -218,19 +218,19 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact me!
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I will be pleased in answering you.
       # Contact (add or remove contact options as necessary)
       email: fernando.vieiralopes@helsinki.fi
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Pohjoinen Rautatiekatu 13
+        city: Helsinki
+        region:
+        postcode: '00100'
+        country: Finland
+        country_code: FI
       contact_links:
         - icon: twitter
           icon_pack: fab
