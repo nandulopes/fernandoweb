@@ -94,8 +94,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: '1'
+    api_key: 'https://developers.google.com/maps/documentation/javascript/get-api-key'
     zoom: 15
 
 # Extensions
