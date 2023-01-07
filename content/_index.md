@@ -160,7 +160,7 @@ sections:
           description: |2-
               2020: Society for Marine Mammalogy - Small Grants in Aid of Research
               
-              2017: Society for Conservation Biology - Conservation Research Small Grants Program \\
+              2017: Society for Conservation Biology - Conservation Research Small Grants Program \n
               2016: Society for Marine Mammalogy - Small Grants in Aid of Research 
           organization: 
           organization_url:
