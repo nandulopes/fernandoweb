@@ -210,7 +210,7 @@ sections:
           icon_pack: fas
    - block: markdown
     content:
-      title: Galler
+      title: Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
