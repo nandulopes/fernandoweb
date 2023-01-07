@@ -147,14 +147,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url:
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url:
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url:
           date_end: '2023-01-01'
           date_start: '2016-09-01'
           description: |2-
