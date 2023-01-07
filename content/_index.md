@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+    id: expirience
     content:
       title: Experience & Education
       # Date format for experience
