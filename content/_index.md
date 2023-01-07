@@ -43,7 +43,7 @@ sections:
 
         - title: Technical Support
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: 'https://www.pucrs.br'
+          company_url: 'https://www.pucrs.br/en/'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2020-04-01'
@@ -74,7 +74,7 @@ sections:
 
         - title: PhD Ecology, Evolution & Biodiversity
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: 'https://www.pucrs.br/health-sciences/graduate-program-in-ecology-evolution-and-biodiversity'
+          company_url: 'https://www.pucrs.br/en/'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2019-10-01'
@@ -85,7 +85,7 @@ sections:
 
         - title: Master's degree Zoology
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: 'https://www.pucrs.br/health-sciences/graduate-program-in-ecology-evolution-and-biodiversity'
+          company_url: 'https://www.pucrs.br/en/'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2013-03-01'
