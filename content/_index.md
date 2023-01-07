@@ -160,7 +160,7 @@ sections:
           description: |2-
               Dissertation:
               Genetic diversity
-          organization: edX
+          organization: Grants
           organization_url:
           title: Blockchain Fundamentals
           url:
