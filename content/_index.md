@@ -224,7 +224,7 @@ sections:
       text: |-
         I will be pleased in answering you.
       # Contact (add or remove contact options as necessary)
-      email: fernando.vieiralopes@helsinki.fi
+      email: nandulopes@gmail.com
       address:
         street: Pohjoinen Rautatiekatu 13
         city: Helsinki - Finland
