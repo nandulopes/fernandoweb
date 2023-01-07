@@ -226,9 +226,9 @@ sections:
       email: fernando.vieiralopes@helsinki.fi
       address:
         street: Pohjoinen Rautatiekatu 13
-        city: Helsinki
-        region:
+        city: Helsinki - Finland
         postcode: '00100'
+        region:
         country: Finland
         country_code: FI
       contact_links:
