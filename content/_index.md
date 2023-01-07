@@ -159,10 +159,12 @@ sections:
           date_start: '2021-01-01'
           description: |2-
               Dissertation:
-              Genetic diversity
-          organization: Grants
+              Grant: 2020, Society for Marine Mammalogy - Small Grants in Aid of Research
+              Grant: 2017, Society for Conservation Biology - Conservation Research Small Grants Program 
+              Grant: 2016, Society for Marine Mammalogy - Small Grants in Aid of Research 
+          organization: 
           organization_url:
-          title: Blockchain Fundamentals
+          title: Grants
           url:
     design:
       columns: '2'
