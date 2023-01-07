@@ -72,7 +72,7 @@ sections:
               * Population Genetics/Genomics
               * Manuscript writting
 
-        - title: PhD
+        - title: PhD Ecology, Evolution & Biodiversity
           company: Pontifical Catholic University of Rio Grande do Sul
           company_url: ''
           company_logo: pucrs
@@ -83,7 +83,7 @@ sections:
               Thesis:
               Phylogenomics of Otariidae and evolutinary history of fur seals of South America
 
-        - title: Master's degree
+        - title: Master's degree Zoology
           company: Pontifical Catholic University of Rio Grande do Sul
           company_url: ''
           company_logo: pucrs
@@ -94,7 +94,7 @@ sections:
               Dissertation:
               Genetic diversity and population structure of the Galapagos fur seal, Arctocephalus galapagoensis
      
-        - title: Bachelor degree in Biological Sciences
+        - title: Bachelor degree Biological Sciences
           company: University of Vale do Rio dos Sinos
           company_url: ''
           company_logo: uni
