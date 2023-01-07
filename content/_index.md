@@ -118,9 +118,18 @@ sections:
           date_start: '2013-03-01'
           date_end: '2015-02-28'
           description: |2-
-              Thesis:
+              Dissertation:
               Genetic diversity and population structure of the Galapagos fur seal, Arctocephalus galapagoensis
 
+        - title: Bachelor degree in Biological Sciences
+          company: University of Vale di Rio dos Sinos
+          company_url: ''
+          company_logo: uni
+          location: São Leopoldo, Brazil
+          date_start: '2006'
+          date_end: '2012'
+          description: |2-
+              
     design:
       columns: '2'
   - block: accomplishments
