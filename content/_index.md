@@ -154,6 +154,7 @@ sections:
           organization_url: ''
           title: Neural Networks and Deep Learning
           url: ''
+    
     design:
       columns: '2'
   - block: collection
