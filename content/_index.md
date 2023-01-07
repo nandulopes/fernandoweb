@@ -104,8 +104,8 @@ sections:
           company_url: ''
           company_logo: pucrs
           location: Porto Alegre, Brazil
-          date_start: '2013'
-          date_end: '2015'
+          date_start: '2019-10-01'
+          date_end: '2020-03-31'
           description: |2-
               Thesis:
               Phylogenomics of Otariidae and evolutinary history of fur seals of South America
