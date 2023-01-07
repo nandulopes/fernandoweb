@@ -109,11 +109,7 @@ sections:
           description: |2-
               Responsibilities:
 
-              * Genomic Analyses (WGS, RADseq)
-              * Phylogenomics
-              * Population Genomics
-              * Manuscript writting
-              * Mentorship
+              Phylogenomics of Otariidae and evolutinary history of fur seals of South America
 
     design:
       columns: '2'
