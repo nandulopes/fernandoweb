@@ -27,7 +27,7 @@ sections:
       items:
         - title: Postdoctoral Researcher
           company: Finnish Museum of Natural History, University of Helsinki
-          company_url: ''
+          company_url: 'https://www.luomus.fi/en'
           company_logo: uh
           location: Helsinki, Finalnd
           date_start: '2022-01-24'
@@ -43,7 +43,7 @@ sections:
 
         - title: Technical Support
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: ''
+          company_url: 'https://www.pucrs.br'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2020-04-01'
@@ -59,7 +59,7 @@ sections:
 
         - title: Technical Support
           company: University of Vale do Rio dos Sinos
-          company_url: ''
+          company_url: 'https://www.unisinos.br'
           company_logo: uni
           location: São Leopoldo, Brazil
           date_start: '2019-10-01'
@@ -74,7 +74,7 @@ sections:
 
         - title: PhD Ecology, Evolution & Biodiversity
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: ''
+          company_url: 'https://www.pucrs.br/health-sciences/graduate-program-in-ecology-evolution-and-biodiversity'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2019-10-01'
@@ -85,7 +85,7 @@ sections:
 
         - title: Master's degree Zoology
           company: Pontifical Catholic University of Rio Grande do Sul
-          company_url: ''
+          company_url: 'https://www.pucrs.br/health-sciences/graduate-program-in-ecology-evolution-and-biodiversity'
           company_logo: pucrs
           location: Porto Alegre, Brazil
           date_start: '2013-03-01'
@@ -96,7 +96,7 @@ sections:
      
         - title: Bachelor degree Biological Sciences
           company: University of Vale do Rio dos Sinos
-          company_url: ''
+          company_url: 'https://www.unisinos.br'
           company_logo: uni
           location: São Leopoldo, Brazil
           date_start: '2006-03-01'
