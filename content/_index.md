@@ -85,7 +85,7 @@ sections:
               * Mentorship
 
         - title: Technical Support
-          company: University of Vale di Rio dos Sinos
+          company: University of Vale do Rio dos Sinos
           company_url: ''
           company_logo: uni
           location: São Leopoldo, Brazil
@@ -122,7 +122,7 @@ sections:
               Genetic diversity and population structure of the Galapagos fur seal, Arctocephalus galapagoensis
      
         - title: Bachelor degree in Biological Sciences
-          company: University of Vale di Rio dos Sinos
+          company: University of Vale do Rio dos Sinos
           company_url: ''
           company_logo: uni
           location: São Leopoldo, Brazil
@@ -146,7 +146,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-25'
           description: ''
