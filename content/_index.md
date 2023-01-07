@@ -232,6 +232,7 @@ sections:
         region:
         country: Finland
         country_code: FI
+        coordinates = {latitude = "37.4275", longitude = "-122.1697"}
       contact_links:
         - icon: twitter
           icon_pack: fab
