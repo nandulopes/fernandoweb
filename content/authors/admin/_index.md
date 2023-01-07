@@ -95,11 +95,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'fernando.vieiralopes@helsinki.fi'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-My research focuses on understanding the phylogenetic relationships of extant and extinct species of dung beetles from Madagascar and Mascarenes using UCEs and aDNA. In this project, I aim to reconstruct detailed evolutionary dynamics of the stunning dung beetle diversity in the Malagasy region and the associated mass extinction events likely caused by human activity. My research interests are molecular systematics, population genomics, and phylogeography, with particular emphasis on genomic introgression. Previously, I studied how environmental conditions influenced marine mammals' population structure and diversification using RADseq and WGS.
+My current research focuses on understanding the phylogenetic relationships of extant and extinct species of dung beetles from Madagascar and Mascarenes using UCEs, aDNA and metagenomics. In this project, I aim to reconstruct detailed evolutionary dynamics of the stunning dung beetle diversity in the Malagasy region and the associated mass extinction events likely caused by human activity. My research interests are molecular systematics, population genomics, and phylogeography, with particular emphasis on genomic introgression. Previously, I studied how environmental conditions influenced marine mammals' population structure and diversification using RADseq and WGS.
 {style="text-align: justify;"}
