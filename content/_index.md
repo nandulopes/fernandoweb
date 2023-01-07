@@ -156,7 +156,7 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
-          date_start: ''
+          date_start:
           description: |2-
               2020: Society for Marine Mammalogy - Small Grants in Aid of Research <br>
               2017: Society for Conservation Biology - Conservation Research Small Grants Program <br>
