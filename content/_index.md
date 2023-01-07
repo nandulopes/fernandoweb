@@ -157,9 +157,9 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Grant: 2020, Society for Marine Mammalogy - Small Grants in Aid of Research
-Grant: 2017, Society for Conservation Biology - Conservation Research Small Grants Program 
-Grant: 2016, Society for Marine Mammalogy - Small Grants in Aid of Research 
+          description: |2-
+              Dissertation:
+              Genetic diversity
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
