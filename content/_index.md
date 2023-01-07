@@ -161,9 +161,9 @@ sections:
               Dissertation:
               Genetic diversity
           organization: edX
-          organization_url: https://www.edx.org
+          organization_url:
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url:
     design:
       columns: '2'
   - block: collection
