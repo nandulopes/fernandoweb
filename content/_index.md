@@ -169,8 +169,8 @@ sections:
           title: Awards
           url:
         - certificate_url:
-          date_end: '2023-01-01'
-          date_start: '2016-09-01'
+          date_end: '2017-12-31'
+          date_start: '2006-03-01'
           description: |2-
               2020: Sandwich PhD in a host institution outside Brazil. Funding: Ministry of Education of Brazil - CAPES <br>
               2017: Society for Conservation Biology - Conservation Research Small Grants Program <br>
