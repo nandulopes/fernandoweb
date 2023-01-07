@@ -12,34 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Field work
-          #description: 100%
-          icon: mountain
-          icon_pack: fas
-        - name: Wet-lab
-          #description: 90%
-          icon: dna
-          icon_pack: fas
-        - name: Genomic Analyses
-          #description: 100%
-          icon: computer
-          icon_pack: fas
-        - name: Maps
-          #description: 100%
-          icon: map
-          icon_pack: fas 
-        - name: Scientific writing
-          #description: 100%
-          icon: pen
-          icon_pack: fas
-        - name: Mentorship
-          #description: 100%
-          icon: person-chalkboard
-          icon_pack: fas
   - block: experience
     content:
       title: Experience & Education
@@ -284,6 +256,34 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Field work
+          #description: 100%
+          icon: mountain
+          icon_pack: fas
+        - name: Wet-lab
+          #description: 90%
+          icon: dna
+          icon_pack: fas
+        - name: Genomic Analyses
+          #description: 100%
+          icon: computer
+          icon_pack: fas
+        - name: Maps
+          #description: 100%
+          icon: map
+          icon_pack: fas 
+        - name: Scientific writing
+          #description: 100%
+          icon: pen
+          icon_pack: fas
+        - name: Mentorship
+          #description: 100%
+          icon: person-chalkboard
+          icon_pack: fas    
   - block: contact
     id: contact
     content:
