@@ -208,9 +208,9 @@ sections:
           #description: 100%
           icon: person-chalkboard
           icon_pack: fas
-  - block: markdown
+   - block: markdown
     content:
-      title: Gallery
+      title: Galler
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
