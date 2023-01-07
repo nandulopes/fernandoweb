@@ -219,6 +219,10 @@ sections:
   - block: contact
     id: contact
     content:
+    content:
+    coordinates:
+      latitude: '37.4275'
+      longitude: '-122.1697'
       title: Contact me!
       subtitle:
       text: |-
