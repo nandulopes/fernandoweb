@@ -107,9 +107,19 @@ sections:
           date_start: '2015-03-01'
           date_end: '2019-08-29'
           description: |2-
-              Responsibilities:
-
+              Thesis:
               Phylogenomics of Otariidae and evolutinary history of fur seals of South America
+
+        - title: Master's degree
+          company: Pontifical Catholic University of Rio Grande do Sul
+          company_url: ''
+          company_logo: pucrs
+          location: Porto Alegre, Brazil
+          date_start: '2013-03-01'
+          date_end: '2015-02-28'
+          description: |2-
+              Thesis:
+              Genetic diversity and population structure of the Galapagos fur seal, Arctocephalus galapagoensis
 
     design:
       columns: '2'
