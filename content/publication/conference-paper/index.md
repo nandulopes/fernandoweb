@@ -41,10 +41,10 @@ abstract: According to traditional views, the evolution of dung beetles (Coleopt
 # Summary. An optional shortened abstract.
 summary: Dung Beetles from Mascarenes (Madagascar and Mauritius) feed on the dung of Sauropsid (reptiles and birds). Our study shows that insular dung feeder are 3.4 times more likely to consume dung of reptiles and birds. Additionally, we show that in the absence of large herbivores (mammals), sauropsids are fundamental to support dung beetles communities in insular environments.
 
-
+tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
