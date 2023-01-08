@@ -18,10 +18,10 @@ author_notes:
   - 'Finnish Museum of Natural History'
   - 'Finnish Museum of Natural History'
   - 'The Cleveland Museum of Natural History'
-  - Finnish Museum of Natural History'
+  - 'Finnish Museum of Natural History'
 
 date: '2022-12-17T00:00:00Z'
-doi: ''
+doi: '10.1101/2022.12.27.521994'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
