@@ -1,16 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'The last publication'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Michele Rossini
+  - Federica Losacco
+  - Giulio Montanaro
+  - Nicole Gunter
+  - Sergei Tarasov
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - 'Finnish Museum of Natural History'
   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
