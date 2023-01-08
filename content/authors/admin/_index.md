@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fernando Lopes, PhD
+title: Fernando Lopes
 
 # Full name (for SEO)
 first_name: Fernando
