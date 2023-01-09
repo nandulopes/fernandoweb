@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Lopes et al. (2022)**](https://www.biorxiv.org/content/10.1101/2022.12.27.521994v1.full)'
+  caption: 'Image credit: [**Chaves et al. (2022)**](https://doi.org/10.3389/fgene.2022.725772)'
   focal_point: ""
   preview_only: false
 
