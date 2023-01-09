@@ -34,10 +34,10 @@ publication_types: ["2"]
 publication: "*Frontiers in Genetics, 13:725772"
 publication_short: ""
 
-abstract: 
+abstract: test
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: test
 
 tags:
 - Source Themes
@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.frontiersin.org/articles/10.3389/fgene.2022.725772/full"
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fgene.2022.725772/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
