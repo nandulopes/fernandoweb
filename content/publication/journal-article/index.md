@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.frontiersin.org/articles/10.3389/fgene.2022.725772/full
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fgene.2022.725772/full"
 url_code: ''
 url_dataset: ''
 url_poster: ''
