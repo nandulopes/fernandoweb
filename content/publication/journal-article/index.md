@@ -37,7 +37,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: We report the genetic consequences of the geographic distribution of rookeries in Galapagos fur seals (GFS: Arctocephalus galapagoensis) in creating population structure. We show that rookeries across four islands (nine rookeries) are genetically structured into the following major groups: 1) a western cluster of individuals from Fernandina; 2) a central group from north and east Isabela, Santiago, and Pinta; and possibly, 3) a third cluster in the northeast from Pinta.
+summary: 
 
 tags:
 - Source Themes
