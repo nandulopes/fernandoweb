@@ -1,13 +1,25 @@
 ---
-title: "An example journal article"
+title: "Population Genetics and Phylogeography of Galapagos Fur Seals"
 authors:
+- Chaves J
 - admin
-- Robert Ford
+- Martínez D
+- Cueva DF
+- Gavilanez G
+- Bonatto SL
+- Oliveira L
+- Páez-Rosas D
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Universidad San Francisco de Quito"
+- "Pontificia Universidade Catolica do Rio Grande do Sul, Universidade do Vale do Rio dos Sinos"
+- "Universidad San Francisco de Quito"
+- "Universidad San Francisco de Quito"
+- "Universidad San Francisco de Quito"
+- "Pontificia Universidade Catolica do Rio Grande do Sul"
+- "Universidade do Vale do Rio dos Sinos, GEMARS"
+- "Universidad San Francisco de Quito, Parque Nacional Galápagos"
+date: "2022-05-19T00:00:00Z"
+doi: "doi.org/10.3389/fgene.2022.725772"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +31,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Frontiers in Genetics, 13:725772"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pinnipeds found across islands provide an ideal opportunity to examine the evolutionary process of population subdivision affected by several mechanisms. Here, we report the genetic consequences of the geographic distribution of rookeries in Galapagos fur seals (GFS: Arctocephalus galapagoensis) in creating population structure. We show that rookeries across four islands (nine rookeries) are genetically structured into the following major groups: 1) a western cluster of individuals from Fernandina; 2) a central group from north and east Isabela, Santiago, and Pinta; and possibly, 3) a third cluster in the northeast from Pinta. Furthermore, asymmetric levels of gene flow obtained from eight microsatellites found migration from west Isabela to Fernandina islands (number of migrants Nm = 1), with imperceptible Nm in any other direction. Our findings suggest that the marked structuring of populations recovered in GFS is likely related to an interplay between long-term site fidelity and long-distance migration in both male and female individuals, probably influenced by varying degrees of marine productivity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We report the genetic consequences of the geographic distribution of rookeries in Galapagos fur seals (GFS: Arctocephalus galapagoensis) in creating population structure. We show that rookeries across four islands (nine rookeries) are genetically structured into the following major groups: 1) a western cluster of individuals from Fernandina; 2) a central group from north and east Isabela, Santiago, and Pinta; and possibly, 3) a third cluster in the northeast from Pinta.
 
 tags:
 - Source Themes
@@ -34,8 +46,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.frontiersin.org/articles/10.3389/fgene.2022.725772/full
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
