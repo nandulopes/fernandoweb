@@ -168,7 +168,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Notable Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
