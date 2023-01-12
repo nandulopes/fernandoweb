@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Fine-scale matrilineal population structure in the Galapagos fur seal and its implications for conservation management"
 authors:
 - admin
+- et al.
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
