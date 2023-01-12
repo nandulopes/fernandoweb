@@ -3,8 +3,12 @@ title: "Fine-scale matrilineal population structure in the Galapagos fur seal an
 authors:
 - admin
 - et al.
-date: "2019-04-07T00:00:00Z"
-doi: ""
+
+author_notes:
+- "Pontificia Universidade Catolica do Rio Grande do Sul, Universidade do Vale do Rio dos Sinos"
+- "see DOI"
+date: "2015-05-26T00:00:00Z"
+doi: "doi.org/10.1007/s10592-015-0725-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -13,16 +17,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Females of many pinniped species generally exhibit strong fine-scale philopatry, but it is unclear over what spatial scale this behavior may translate into genetic population structure. We conducted a population genetic survey in the Galapagos fur seal, Arctocephalus galapagoensis, an endangered pinniped endemic to a small geographic range in the northwest of the Galapagos archipelago. To assess patterns of genetic diversity levels and population differentiation, we analyzed part of the mitochondrial control region (mtDNA) and 18 microsatellites DNA markers. We detected similar levels of genetic diversity to many other pinniped species (h = 0.86, π = 0.012, A = 7.44) despite severe anthropogenic exploitation in the nineteenth century and recurrent population crashes due to recent climatic perturbations associated with El Niño Southern Oscillation events. We further found remarkably strong fine-scale matrilineal population structure, with 33.9 % of the mtDNA variation being partitioned among colonies separated by as little as 70 km swimming distance. In contrast, population structure inferred from nuclear markers was weak. Our findings provide further evidence that natal philopatry can translate into fine-scale genetic population structure in highly mobile species. We discuss the relevance of our results for the fine-scale conservation management of this species with a very restricted geographic range.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We showed a high-female phylopatry and a male-mediated gene flow for the Galapagos fur seals.
 
 tags:
 - Source Themes
@@ -30,9 +34,9 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url: https://link.springer.com/article/10.1007/s10592-015-0725-1
+url_pdf: 
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -43,28 +47,9 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Lopes et al. 2015**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
