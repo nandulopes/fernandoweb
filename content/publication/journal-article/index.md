@@ -7,7 +7,7 @@ authors:
 author_notes:
 - "Pontificia Universidade Catolica do Rio Grande do Sul, Universidade do Vale do Rio dos Sinos"
 - "see DOI"
-date: "2020-12-26T00:00:00Z"
+date: "2021-07-26T00:00:00Z"
 doi: "doi.org/10.1093/sysbio/syaa099"
 
 # Schedule page publish date (NOT publication's date).
