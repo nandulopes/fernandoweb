@@ -81,10 +81,10 @@ social:
     label: Interaction
     display:
       header: false
-  - icon: users # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: researchgate
+    icon_pack: fab
     link: https://www.tarasovlab.com/
-    label: My Research Group
+    label: Research Group
     display:
       header: false
 
