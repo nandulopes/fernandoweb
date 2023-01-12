@@ -76,13 +76,13 @@ social:
     display:
       header: false
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Fernando-Lopes-13
     label: Interaction
     display:
       header: false
-  - icon: researchgate
-    icon_pack: fab
+  - icon: users
+    icon_pack: fas
     link: https://www.tarasovlab.com/
     label: Research Group
     display:
