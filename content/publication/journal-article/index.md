@@ -2,7 +2,8 @@
 title: "Phylogenomic Discordance in the Eared Seals is best explained by Incomplete Lineage Sorting following Explosive Radiation in the Southern Hemisphere"
 authors:
 - admin
-- et al.
+- et al
+
 author_notes:
 - "Pontificia Universidade Catolica do Rio Grande do Sul, Universidade do Vale do Rio dos Sinos"
 - "see DOI"
