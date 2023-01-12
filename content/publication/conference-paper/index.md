@@ -34,7 +34,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *BioRxiv*
+publication: In *BioRxiv, under review Frontiers Ecology and Evolution*
 publication_short: In *BioRxiv*
 
 abstract: According to traditional views, the evolution of dung beetles (Coleoptera, Scarabaeinae) and their feeding habits are largely attributed to mammal dung. In this paper, we challenge this view and provide evidence that many dung beetle communities are actually associated with the dung of reptiles and birds (= Sauropsida). In turn, this indicates that sauropsid dung may have played a crucial evolutionary role that was previously underestimated. We argue that it is physiologically realistic to consider that coprophagy in dung beetles could have evolved during the Cretaceous in response to the massive amount of dung produced by dinosaurs. Furthermore, we demonstrate that sauropsid dung may be one of the major factors driving the emergence of insular dung beetle communities across the globe. We support our findings with amplicon-metagenomic analyses, trapping experiments, and meta-analysis of the published literature.
