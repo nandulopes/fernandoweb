@@ -145,7 +145,7 @@ sections:
           date_end: '2017-12-31'
           date_start: '2006-03-01'
           description: |2-
-              2017: Sandwich PhD in a host institution outside Brazil. Funding: Ministry of Education of Brazil - CAPES <br>
+              2017: Sandwich PhD in a host institution (Ludwig Maximilian University of Munich - Munich, Germany). Funding: Ministry of Education of Brazil - CAPES <br>
               2015: PhD thesis Scholarship. Funding: Ministry of Education of Brazil - CAPES <br>
               2013: Master's degree Scholarship. First place in the selective process to perform a master’s degree dissertation. Funding: Ministry of Science and Technology of Brazil - CNPq <br>
               2006: PROUNI - Universidade para todos program. Scholarship to cover the course of Biological Sciences. Funding: Ministry of Education of Brazil 
