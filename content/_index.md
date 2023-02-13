@@ -35,7 +35,7 @@ sections:
           description: |2-
               Responsibilities:
 
-              * Genomic Analyses (Shotgun, UCE, aDNA)
+              * Genomic Analyses (Shotgun, UCE, aDNA, Metagenomics)
               * Molecular Systematics
               * Wet-lab protocols
               * Manuscript writting
