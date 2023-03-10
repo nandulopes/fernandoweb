@@ -1,5 +1,5 @@
 ---
-title: 'Metagenomics reveals that Dung Beetles (Coleoptera: Scarabaeinae) broadly feed on Reptile dung and could feed on that of Dinosaurs'
+title: 'Metagenomics reveals that dung beetles (Coleoptera: Scarabaeinae) broadly feed on reptile dung. Did they also feed on that of dinosaurs?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
