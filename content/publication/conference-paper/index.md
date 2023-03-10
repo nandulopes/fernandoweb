@@ -21,7 +21,7 @@ author_notes:
   - 'The Cleveland Museum of Natural History'
   - 'Finnish Museum of Natural History'
 
-date: '2022-12-22T00:00:00Z'
+date: '2023-03-10T00:00:00Z'
 doi: '10.3389/fevo.2023.1132729'
 
 # Schedule page publish date (NOT publication's date).
