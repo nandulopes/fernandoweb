@@ -22,7 +22,7 @@ author_notes:
   - 'Finnish Museum of Natural History'
 
 date: '2022-12-22T00:00:00Z'
-doi: '10.1101/2022.12.27.521994'
+doi: '10.3389/fevo.2023.1132729'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,11 +31,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *BioRxiv, **ACCEPTED MANUSCRIPT** Frontiers in Ecology and Evolution*
-publication_short: In *BioRxiv, **ACCEPTED MANUSCRIPT** Frontiers in Ecology and Evolution*
+publication: In *Frontiers in Ecology and Evolution*
+publication_short: In *Frontiers in Ecology and Evolution*
 
 abstract: According to traditional views, the evolution of dung beetles (Coleoptera, Scarabaeinae) and their feeding habits are largely attributed to mammal dung. In this paper, we challenge this view and provide evidence that many dung beetle communities are actually associated with the dung of reptiles and birds (= Sauropsida). In turn, this indicates that sauropsid dung may have played a crucial evolutionary role that was previously underestimated. We argue that it is physiologically realistic to consider that coprophagy in dung beetles could have evolved during the Cretaceous in response to the massive amount of dung produced by dinosaurs. Furthermore, we demonstrate that sauropsid dung may be one of the major factors driving the emergence of insular dung beetle communities across the globe. We support our findings with amplicon-metagenomic analyses, trapping experiments, and meta-analysis of the published literature.
 
@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2022.12.27.521994v1.full'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,7 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Lopes et al. (2022)**](https://www.biorxiv.org/content/10.1101/2022.12.27.521994v1.full)'
+  caption: 'Image credit: [**Lopes et al. (2023)**](https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full)'
   focal_point: ''
   preview_only: false
 
