@@ -35,7 +35,7 @@ sections:
           description: |2-
               Responsibilities:
 
-              * Genomic Analyses (Shotgun, UCE, aDNA, Metagenomics)
+              * Genomic Analyses (Shotgun, UCE, aDNA & Metagenomics)
               * Molecular Systematics
               * Wet-lab protocols
               * Manuscript writting
@@ -80,7 +80,7 @@ sections:
           date_start: '2019-10-01'
           date_end: '2020-03-31'
           description: |2-
-              Thesis:
+              Ph.D. Thesis:
               Phylogenomics of Otariidae and evolutinary history of fur seals of South America
 
         - title: Master's degree Zoology
@@ -91,7 +91,7 @@ sections:
           date_start: '2013-03-01'
           date_end: '2015-02-28'
           description: |2-
-              Dissertation:
+              Master's Thesis:
               Genetic diversity and population structure of the Galapagos fur seal, Arctocephalus galapagoensis
      
         - title: Bachelor degree Biological Sciences
