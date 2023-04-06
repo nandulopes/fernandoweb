@@ -8,7 +8,7 @@ last_name: Lopes
 
 # Status emoji
 status:
-  icon: 📚
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,6 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fernandorvlopes
@@ -74,7 +75,7 @@ social:
     link: https://orcid.org/0000-0002-1246-2777
     label: Track records
     display:
-      header: false
+      header: true
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Fernando-Lopes-13
