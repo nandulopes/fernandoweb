@@ -1,28 +1,31 @@
 ---
-title: 'Metagenomics reveals that dung beetles (Coleoptera: Scarabaeinae) broadly feed on reptile dung. Did they also feed on that of dinosaurs?'
+title: 'Genomic evidence for homoploid hybrid speciation in a marine mammal apex predator'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Michele Rossini
-  - Federica Losacco
-  - Giulio Montanaro
-  - Nicole Gunter
-  - Sergei Tarasov
+  - Larissa Oliveira
+  - Yago Beux
+  - Amanda Kessler
+  - Susana Cárdenas-Alayza
+  - Patricia Majluf
+  - et al.
 
 # Author notes (optional)
 author_notes:
-  - 'Finnish Museum of Natural History'
-  - 'Finnish Museum of Natural History'
-  - 'Finnish Museum of Natural History'
-  - 'Finnish Museum of Natural History'
-  - 'The Cleveland Museum of Natural History'
-  - 'Finnish Museum of Natural History'
+  - 'Pontificia Universidade Católica do Rio Grande do Sul'
+  - 'Universidade do Vale do Rio dos Sinos'
+  - 'Pontificia Universidade Católica do Rio Grande do Sul'
+  - 'Pontificia Universidade Católica do Rio Grande do Sul'
+  - 'Universidad Peruana Cayetano Heredia'
+  - 'Universidad Peruana Cayetano Heredia'
+  - 'see DOI'
+
 
 date: '2023-03-10T00:00:00Z'
-doi: '10.3389/fevo.2023.1132729'
+doi: '10.1126/sciadv.adf660'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -34,13 +37,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Ecology and Evolution*
-publication_short: In *Frontiers in Ecology and Evolution*
+publication: In *Science Advances*
+publication_short: In *Science Advances*
 
-abstract: According to traditional views, the evolution of dung beetles (Coleoptera, Scarabaeinae) and their feeding habits are largely attributed to mammal dung. In this paper, we challenge this view and provide evidence that many dung beetle communities are actually associated with the dung of reptiles and birds (= Sauropsida). In turn, this indicates that sauropsid dung may have played a crucial evolutionary role that was previously underestimated. We argue that it is physiologically realistic to consider that coprophagy in dung beetles could have evolved during the Cretaceous in response to the massive amount of dung produced by dinosaurs. Furthermore, we demonstrate that sauropsid dung may be one of the major factors driving the emergence of insular dung beetle communities across the globe. We support our findings with amplicon-metagenomic analyses, trapping experiments, and meta-analysis of the published literature.
+abstract: Hybridization is widespread and constitutes an important source of genetic variability and evolution. In animals, its role in generating novel and independent lineages (hybrid speciation) has been strongly debated, with only a few cases supported by genomic data. The South American fur seal (SAfs) Arctocephalus australis is a marine apex predator of Pacific and Atlantic waters, with a disjunct set of populations in Peru and Northern Chile [Peruvian fur seal (Pfs)] with controversial taxonomic status. We demonstrate, using complete genome and reduced representation sequencing, that the Pfs is a genetically distinct species with an admixed genome that originated from hybridization between the SAfs and the Galapagos fur seal (Arctocephalus galapagoensis) around 400,000 years ago. Our results strongly support the origin of Pfs by homoploid hybrid speciation over alternative introgression scenarios. This study highlights the role of hybridization in promoting species-level biodiversity in large vertebrates.
 
 # Summary. An optional shortened abstract.
-summary: Dung Beetles from Mascarenes (Madagascar and Mauritius) feed on the dung of Sauropsid (reptiles and birds). Our study shows that insular dung feeder are 3.4 times more likely to consume dung of reptiles and birds. Additionally, we show that in the absence of large herbivores (mammals), sauropsids are fundamental to support dung beetles communities in insular environments.
+summary: The hybrid origin of the Peruvian fur seal occured around 400 Kya after short periods of hybridization between the Galapagos and South American fur seal.
 
 tags: []
 
@@ -52,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full'
+url_pdf: 'https://www.science.org/doi/10.1126/sciadv.adf6601'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,7 +67,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Lopes et al. (2023)**](https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full)'
+  caption: 'Image credit: [**Lopes et al. (2023)**](https://www.science.org/doi/10.1126/sciadv.adf6601)'
   focal_point: ''
   preview_only: false
 
