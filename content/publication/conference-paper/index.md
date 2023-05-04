@@ -11,7 +11,7 @@ authors:
   - Amanda Kessler
   - Susana Cárdenas-Alayza
   - Patricia Majluf
-  - et al.
+  - et al
 
 # Author notes (optional)
 author_notes:
