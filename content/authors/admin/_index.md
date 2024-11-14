@@ -51,8 +51,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
+  - icon: x-twitter
+    icon_pack: fas
     link: https://x.com/fernandorvlopes
     label: Follow me on X
     display:
