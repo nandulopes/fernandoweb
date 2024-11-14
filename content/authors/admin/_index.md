@@ -18,8 +18,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Finnish Museum of Natural History (LUOMUS) - University of Helsinki
-    url: https://luomus.fi/en
+  - name: State University of Campinas
+    url: https://unicamp.br/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include phylogenomics, population genomics and introgression.
@@ -51,10 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
-    link: https://https://x.com/fernandorvlopes
-    label: Follow me on Twitter
+    link: https://x.com/fernandorvlopes
+    label: Follow me on X
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -89,7 +89,7 @@ social:
       header: false
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'fernando.vieiralopes@helsinki.fi'
+email: 'nandulopes@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
