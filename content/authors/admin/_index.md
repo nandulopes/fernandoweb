@@ -51,10 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x-twitter
-    icon_pack: fas
+  - icon: /brands/x
+    icon_pack: fab
     link: https://x.com/fernandorvlopes
-    label: Follow me on X
+    label: Follow me on X 
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
