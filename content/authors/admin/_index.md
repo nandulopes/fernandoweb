@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: State University of Campinas
+  - name: State University of Campinas, Brazil
     url: https://unicamp.br/en/
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/fernandorvlopes
     label: Follow me on X
