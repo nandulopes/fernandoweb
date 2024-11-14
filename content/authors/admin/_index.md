@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fas
-    link: https://x.com/fernandorvlopes
+    link: https://twitter.com/fernandorvlopes
     label: Follow me on X 
     display:
       header: true
