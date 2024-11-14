@@ -8,7 +8,7 @@ last_name: Lopes
 
 # Status emoji
 status:
-  icon: 🧬🦭🪲
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/fernandorvlopes
+    link: https://https://x.com/fernandorvlopes
     label: Follow me on Twitter
     display:
       header: true
@@ -83,7 +83,7 @@ social:
       header: false
   - icon: users
     icon_pack: fas
-    link: https://www.tarasovlab.com/
+    link: https://labgenomics.ib.unicamp.br/
     label: Research Group
     display:
       header: false
