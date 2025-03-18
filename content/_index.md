@@ -229,8 +229,8 @@ sections:
         country: Brazil
         country_code: BR
       coordinates:
-        latitude: '-47.06810'
-        longitude: '-22.81954'
+        latitude: '-22.81954'
+        longitude: '-47.06810'
       contact_links:
         - icon: twitter
           icon_pack: fab
