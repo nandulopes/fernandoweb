@@ -28,7 +28,7 @@ sections:
         - title: Postdoctoral Researcher
           company: Laboratory of Evolutionary Genomics, State University of Campinas
           company_url: 'https://unicamp.br/en/'
-          company_logo: UNICAMP
+          company_logo: 
           location: Campinas, Brazil
           date_start: '2024-10-01'
           date_end: ''
