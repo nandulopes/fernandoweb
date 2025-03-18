@@ -46,8 +46,8 @@ publication_short: In *PLOS ONE*
 abstract: Although several methods exist for extracting and sequencing historical DNA originating from dry-preserved insect specimens deposited in natural history museums, no consensus exists as to what is the optimal approach. We demonstrate that a customized, low-cost archival DNA extraction protocol (∼€10 per sample), in combination with Ultraconserved Elements (UCEs), is an effective tool for insect phylogenomic studies. We successfully tested our approach by sequencing DNA from scarab dung beetles preserved in both wet and dry collections, including unique primary type and rare historical specimens from internationally important natural history museums in London, Paris and Helsinki. The focal specimens comprised of enigmatic dung beetle genera (Nesosisyphus, Onychothecus and Helictopleurus) and varied in age and preservation. The oldest specimen, the holotype of the now possibly extinct Mauritian endemic Nesosisyphus rotundatus, was collected in 1944. We obtained high-quality DNA from all studied specimens to enable the generation of a UCE-based dataset that revealed an insightful and well-supported phylogenetic tree of dung beetles. The resulting phylogeny propounded the reclassification of Onychothecus (previously incertae sedis) within the tribe Coprini. Our approach demonstrates the feasibility and effectiveness of combining DNA data from historic and recent museum specimens to provide novel insights. The proposed archival DNA protocol is available at DOI '10.17504/protocols.io.81wgbybqyvpk/v3'.
 
 # Summary. An optional shortened abstract.
-summary: Dung Beetles from Mascarenes (Madagascar and Mauritius) feed on the dung of Sauropsid (reptiles and birds). Our study shows that insular dung feeder are 3.4 times more likely to consume dung of reptiles and birds. Additionally, we show that in the absence of large herbivores (mammals), sauropsids are fundamental to support dung beetles communities in insular environments.
-
+summary: This study presents a low-cost (€10/sample) archival DNA extraction protocol combined with Ultraconserved Elements (UCEs) for insect phylogenomics. The method was tested on rare and historic dung beetle specimens, including holotypes from major museums.
+High-quality DNA enabled the reconstruction of a well-supported phylogeny, leading to the taxonomic reclassification of Onychothecus within Coprini. The protocol proves effective for integrating historical and modern specimens, offering new insights into insect evolution.
 tags: []
 
 # Display this page in the Featured widget?
@@ -70,7 +70,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Lopes et al. (2023)**](https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full)'
+  caption: 'Image credit: [**Lopes et al. (2024)**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309596)'
   focal_point: ''
   preview_only: false
 
