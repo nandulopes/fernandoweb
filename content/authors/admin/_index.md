@@ -22,7 +22,7 @@ organizations:
     url: https://unicamp.br/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phylogenomics, population genomics and introgression.
+bio: My research interests are phylogenomics and population genomics with the focus on introgression.
 
 # Interests to show in About widget
 interests:
@@ -95,6 +95,6 @@ email: 'nandulopes@gmail.com'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the University of Campinas (UNICAMP). In my research, I use genomic data to explore the evolutionary history of the Peruvian fur seal, a hybrid lineage, examining the impact of climate change on its secondary contact with one of its parental species and the implications of this phenomenon for the species' future. I have extensive international research experience. Previously, I was a postdoctoral researcher at the Finnish Museum of Natural History (LUOMUS), University of Helsinki (Finland), with additional research experience at the University of Bergen (Norway), where I studied the phylogenetic relationships of Scarab beetles from Madagascar and surrounding islands using genomics and museomics techniques.
+I am a postdoctoral researcher at the University of Campinas (UNICAMP). In my research, I use genomic data (WGS) to explore the evolutionary history of the Peruvian fur seal, a hybrid lineage, examining the impact of climate change on its secondary contact with one of its parental species and the implications of this phenomenon for the species' future. I have extensive international research experience. Previously, I was a postdoctoral researcher at the Finnish Museum of Natural History (LUOMUS), University of Helsinki (Finland) (with additional research experience at the University of Bergen - Norway), where I studied the phylogenetic relationships of Scarab beetles from Madagascar and surrounding islands using genomics and museomics techniques.
 {style="text-align: justify;"}
 {style="text-align: justify;"}
