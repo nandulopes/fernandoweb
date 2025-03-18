@@ -141,6 +141,8 @@ sections:
           date_end: '2023-01-01'
           date_start: '2016-09-01'
           description: |2-
+              2023: The São Paulo Research Foundation, Brazil - Postdoctoral Fellowship Grant <br>
+              2023: ULAM-NAWA Programme, Poland - Postdoctoral Fellowship Grant (declined) <br>
               2020: Society for Marine Mammalogy - Small Grants in Aid of Research <br>
               2017: Society for Conservation Biology - Conservation Research Small Grants Program <br>
               2016: Society for Marine Mammalogy - Small Grants in Aid of Research 
@@ -152,8 +154,6 @@ sections:
           date_end: '2023-01-01'
           date_start: '2012-09-01'
           description: |2-
-              2023: The São Paulo Research Foundation, Brazil - Postdoctoral Fellowship Grant <br>
-              2023: ULAM-NAWA Programme, Poland - Postdoctoral Fellowship Grant (declined) <br>
               2018: International Conference: Best Oral Presentation - Robin Best Award, 12º SOLAMAC, Lima - Peru <br>
               2012: Approved with distinction - undergraduate dissertation, UNISINOS, São Leopoldo - Brazil <br>
               2012: Honorable Mention II Undergraduate Research and Post-graduate Conference & XIX Fair of Undergraduate Research, UNISINOS, São Leopoldo - Brazil
