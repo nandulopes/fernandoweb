@@ -220,7 +220,7 @@ sections:
       text: |-
         I will be pleased in answering you.
       # Contact (add or remove contact options as necessary)
-      email: fernando.vieiralopes@helsinki.fi
+      email: lopesf@unicamp.br
       address:
         street: Rua Monteiro Lobato, 255
         city: Campinas - Brazil
