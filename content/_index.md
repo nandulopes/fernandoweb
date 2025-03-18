@@ -26,12 +26,28 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral Researcher
+          company: Laboratory of Evolutionary Genomics, State University of Campinas
+          company_url: 'https://unicamp.br/en/'
+          company_logo: UNICAMP
+          location: Campinas, Brazil
+          date_start: '2024-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities:
+
+              * Genomic Analyses of fur seals from South America
+              * Population Genomics
+              * Wet-lab protocols
+              * Manuscript writting
+              * Project Management
+    
+        - title: Postdoctoral Researcher
           company: Finnish Museum of Natural History, University of Helsinki
           company_url: 'https://www.luomus.fi/en'
           company_logo: uh
           location: Helsinki, Finalnd
           date_start: '2022-01-24'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
               Responsibilities:
 
@@ -41,7 +57,7 @@ sections:
               * Manuscript writting
               * Project Management
 
-        - title: Postdoctoral Researcher
+        - title: Technical Support
           company: Pontifical Catholic University of Rio Grande do Sul
           company_url: 'https://www.pucrs.br/en/'
           company_logo: pucrs
