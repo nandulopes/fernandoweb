@@ -222,15 +222,15 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: fernando.vieiralopes@helsinki.fi
       address:
-        street: Pohjoinen Rautatiekatu 13
-        city: Helsinki - Finland
-        postcode: '00100'
-        region:
-        country: Finland
-        country_code: FI
+        street: Rua Monteiro Lobato, 255
+        city: Campinas - Brazil
+        postcode: '13083-862'
+        region: São Paulo
+        country: Brazil
+        country_code: BR
       coordinates:
-        latitude: '60.17131'
-        longitude: '24.93131'
+        latitude: '47.068103'
+        longitude: '22.819544'
       contact_links:
         - icon: twitter
           icon_pack: fab
