@@ -1,28 +1,34 @@
 ---
-title: 'Metagenomics reveals that dung beetles (Coleoptera: Scarabaeinae) broadly feed on reptile dung. Did they also feed on that of dinosaurs?'
+title: 'From museum drawer to tree: Historical DNA phylogenomics clarifies the systematics of rare dung beetles (Coleoptera: Scarabaeinae) from museum collections'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Nicole Gunter
+  - Conrad P.D.T. Gillet
+  - Giulio Montanaro
   - Michele Rossini
   - Federica Losacco
-  - Giulio Montanaro
-  - Nicole Gunter
+  - Gimo Daniel
+  - Nicolas Straube
   - Sergei Tarasov
 
 # Author notes (optional)
 author_notes:
   - 'Finnish Museum of Natural History'
+  - 'Queensland Museum Kurilpa,'
   - 'Finnish Museum of Natural History'
   - 'Finnish Museum of Natural History'
+  - 'University of Padova'
   - 'Finnish Museum of Natural History'
-  - 'The Cleveland Museum of Natural History'
+  - 'National Museum Bloemfontein'
+  - 'University Museum of Bergen'
   - 'Finnish Museum of Natural History'
 
 date: '2023-03-10T00:00:00Z'
-doi: '10.3389/fevo.2023.1132729'
+doi: '10.1371/journal.pone.0309596'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -34,10 +40,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Ecology and Evolution*
-publication_short: In *Frontiers in Ecology and Evolution*
+publication: In *PLOS ONE*
+publication_short: In *PLOS ONE*
 
-abstract: According to traditional views, the evolution of dung beetles (Coleoptera, Scarabaeinae) and their feeding habits are largely attributed to mammal dung. In this paper, we challenge this view and provide evidence that many dung beetle communities are actually associated with the dung of reptiles and birds (= Sauropsida). In turn, this indicates that sauropsid dung may have played a crucial evolutionary role that was previously underestimated. We argue that it is physiologically realistic to consider that coprophagy in dung beetles could have evolved during the Cretaceous in response to the massive amount of dung produced by dinosaurs. Furthermore, we demonstrate that sauropsid dung may be one of the major factors driving the emergence of insular dung beetle communities across the globe. We support our findings with amplicon-metagenomic analyses, trapping experiments, and meta-analysis of the published literature.
+abstract: Although several methods exist for extracting and sequencing historical DNA originating from dry-preserved insect specimens deposited in natural history museums, no consensus exists as to what is the optimal approach. We demonstrate that a customized, low-cost archival DNA extraction protocol (∼€10 per sample), in combination with Ultraconserved Elements (UCEs), is an effective tool for insect phylogenomic studies. We successfully tested our approach by sequencing DNA from scarab dung beetles preserved in both wet and dry collections, including unique primary type and rare historical specimens from internationally important natural history museums in London, Paris and Helsinki. The focal specimens comprised of enigmatic dung beetle genera (Nesosisyphus, Onychothecus and Helictopleurus) and varied in age and preservation. The oldest specimen, the holotype of the now possibly extinct Mauritian endemic Nesosisyphus rotundatus, was collected in 1944. We obtained high-quality DNA from all studied specimens to enable the generation of a UCE-based dataset that revealed an insightful and well-supported phylogenetic tree of dung beetles. The resulting phylogeny propounded the reclassification of Onychothecus (previously incertae sedis) within the tribe Coprini. Our approach demonstrates the feasibility and effectiveness of combining DNA data from historic and recent museum specimens to provide novel insights. The proposed archival DNA protocol is available at DOI '10.17504/protocols.io.81wgbybqyvpk/v3'.
 
 # Summary. An optional shortened abstract.
 summary: Dung Beetles from Mascarenes (Madagascar and Mauritius) feed on the dung of Sauropsid (reptiles and birds). Our study shows that insular dung feeder are 3.4 times more likely to consume dung of reptiles and birds. Additionally, we show that in the absence of large herbivores (mammals), sauropsids are fundamental to support dung beetles communities in insular environments.
