@@ -40,6 +40,7 @@ sections:
               * Wet-lab protocols
               * Manuscript writting
               * Project Management
+              * Supervision
     
         - title: Postdoctoral Researcher
           company: Finnish Museum of Natural History, University of Helsinki
@@ -56,6 +57,7 @@ sections:
               * Wet-lab protocols
               * Manuscript writting
               * Project Management
+              * Supervision
 
         - title: Technical Support
           company: Pontifical Catholic University of Rio Grande do Sul
