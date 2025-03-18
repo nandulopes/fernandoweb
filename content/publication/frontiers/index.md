@@ -27,7 +27,7 @@ author_notes:
   - 'University Museum of Bergen'
   - 'Finnish Museum of Natural History'
 
-date: '2023-03-10T00:00:00Z'
+date: '2024-12-31T00:00:00Z'
 doi: '10.1371/journal.pone.0309596'
 
 # Schedule page publish date (NOT publication's date).
