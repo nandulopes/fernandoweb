@@ -57,7 +57,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/fevo.2023.1132729/full'
+url_pdf: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309596'
 url_code: ''
 url_dataset: ''
 url_poster: ''
