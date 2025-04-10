@@ -238,7 +238,7 @@ sections:
       title: Contact me!
       subtitle:
       text: |-
-        I will be pleased in answering you.
+        I will be happy to answer you!
       # Contact (add or remove contact options as necessary)
       email: lopesf@unicamp.br
       address:
